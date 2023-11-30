@@ -56,7 +56,7 @@
 
 Столбцы отделяются запятыми. Заголовки столбцов - ChildId,GiftId.
 
-Пример выходного файла https://github.com/kafvtpnz/DedMorozChallenge2023/blob/master/blob/master/solution_example.сsv
+Пример выходного файла [https://github.com/kafvtpnz/DedMorozChallenge2023/blob/master/blob/master/solution_example.сsv](https://github.com/kafvtpnz/DedMorozChallenge2023/blob/master/blob/master/solution_example.csv)
 
 # Главный приз для автора лучшего решения
 Автомат за экзамен и курсовой + флешка.
